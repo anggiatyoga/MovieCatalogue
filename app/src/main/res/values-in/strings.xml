@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movie">Film</string>
+    <string name="title_tv_series">Serial TV</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="movie_text_rating">Penilaian</string>
+    <string name="movie_rating">8.1</string>
+    <string name="movie_language">Inggris</string>
+    <string name="movie_released">Dirilis</string>
+    <string name="movie_overview">Ikhtisar</string>
+    <string name="movie_text_rating_title">Penilaian</string>
+    <string name="movie_text_language_title">Bahasa</string>
+    <string name="text_movie_released">28 Jun 2018</string>
+    <string name="text_overview">Ikhtisar</string>
+    <string name="movie_popularity">Popularitas</string>
+    <string name="movie_vote_count">Total penilai</string>
+    <string name="text_movie_popularity">102.558</string>
+    <string name="movie_genre">Aliran</string>
+    <string name="movie_text_runtime_title">Durasi</string>
+    <string name="movie_text_runtime">117</string>
+    <string name="movie_text_revenue_title">Pendapatan</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="favorite_movie">Film kesukaan</string>
+    <string name="save_data">Simpan ke Favorit</string>
+    <string name="favorite_list">Daftar Kesukaan</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_from_favorite">Hapus dari favorit</string>
+    <string name="success_to_save">Berhasil di simpan</string>
+</resources>
